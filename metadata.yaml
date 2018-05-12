@@ -15,6 +15,8 @@ creator:
 description: "Man of Many Minds is a science fiction novel by author E. Everett Evans.\
   \ It was first published in 1953 by Fantasy Press in an edition of 3,558 copies.\
   \ The book includes an introduction by E. E. Smith.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19660#Man-of-Many-Minds
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-10-29'
 gutenberg_type: Text
