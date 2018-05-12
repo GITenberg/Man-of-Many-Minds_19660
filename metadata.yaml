@@ -1,0 +1,35 @@
+_repo: Man-of-Many-Minds_19660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, E. Everett (Edward Everett)
+    alias: Evans, Edward Everett
+    birthdate: 1893
+    deathdate: 1958
+    gutenberg_agent_id: '8800'
+    url: http://www.gutenberg.org/2009/agents/8800
+    wikipedia: http://en.wikipedia.org/wiki/E._Everett_Evans
+description: "Man of Many Minds is a science fiction novel by author E. Everett Evans.\
+  \ It was first published in 1953 by Fantasy Press in an edition of 3,558 copies.\
+  \ The book includes an introduction by E. E. Smith.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19660'
+  wikidata: Q6746397
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcc 'PS'
+title: Man of Many Minds
+url: http://www.gutenberg.org/ebooks/19660
+wikipedia:
+- https://en.wikipedia.org/wiki/Man_of_Many_Minds
